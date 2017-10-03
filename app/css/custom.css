@@ -83,6 +83,8 @@ Authors: Coverdale Group
     margin-bottom: -1px;
 }
 
+
+
 .category-navigation {
 	margin:15px auto 15px;
 	}
@@ -90,7 +92,7 @@ Authors: Coverdale Group
 .category-navigation .navbar .container .navbar-nav.pull-right li a,
 .category-navigation .navbar .container-view .navbar-nav.pull-right li a {
     padding:10px;
-    color: #8ba6c3;
+    color: #181818;
     font-weight: normal;
 }
 
@@ -103,7 +105,7 @@ Authors: Coverdale Group
 .category-navigation .navbar .container-view .navbar-nav.pull-right li a:hover,
 .category-navigation .navbar .container .navbar-nav.pull-right li a:focus,
 .category-navigation .navbar .container-view .navbar-nav.pull-right li a:focus {
-    color:#0060A0;
+    color:#000;
     background-color:#fff;
 }
 
@@ -289,8 +291,8 @@ input, button, select, textarea {
 
 .navbar-default {
 
-    background-color: #473eff;
-    border-color: #473eff;
+    background-color: #5d5d5d;
+    border-color: #5d5d5d;
 }
 
 .navbar-default .navbar-nav > li > a {
